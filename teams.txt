@@ -4,8 +4,8 @@
 [ GitHub repository link ]
 [ Heroku/Deployment link ]
 
-Jason Paffenback, Anthony Mitchell, Taylor Yao
-One.Beer.Later.
-A revamp of our first project, we plan to add more functionality, user authentication, and new technologies. It will have similar look.
-https://github.com/jpaffenback/One.Beer.Later.
-https://one-beer-later.herokuapp.com/
+Purvam Chokshi, Raj Patel, Edward Finley
+Mood Refresher
+Mood Refresher is a web application that suggests user choices to refresh their mood based on their given location and few selections.
+https://github.com/purvam98/Mood-Refresher
+https://mood-refresher.herokuapp.com/
